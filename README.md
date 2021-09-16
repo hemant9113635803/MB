@@ -1,5 +1,5 @@
 # Service1 has two project inside - service1 and service2
-start Kafka server i.e zookeeper ans kafka
+start Kafka server i.e zookeeper and kafka
 Start both services
 Specify csv and xml file path
 
