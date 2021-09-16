@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UserDtoXml>
+    <UserDto>
+        <id>1</id>
+        <name>Hemant15</name>
+        <dob>1992-08-01T05:30:00+05:30</dob>
+        <salary>78</salary>
+        <age>57</age>
+        <fileType>xml</fileType>
+    </UserDto>
+    <UserDto>
+        <id>2</id>
+        <name>danjo</name>
+        <dob>1992-02-01T05:30:00+05:30</dob>
+        <salary>10000</salary>
+        <age>56</age>
+        <fileType>xml</fileType>
+    </UserDto>
+</UserDtoXml>
